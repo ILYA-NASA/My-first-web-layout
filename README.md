@@ -1,1 +1,1 @@
-# Осваиваю HTML и CSS
+# My first web-layout from HTML and CSS 
